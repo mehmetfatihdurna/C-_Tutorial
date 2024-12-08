@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\bin\Debug\net8.0\7_HypotenusFinder.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\bin\Debug\net8.0\7_HypotenusFinder.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\bin\Debug\net8.0\7_HypotenusFinder.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\bin\Debug\net8.0\7_HypotenusFinder.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\bin\Debug\net8.0\7_HypotenusFinder.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\obj\Debug\net8.0\7_HypotenusFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\obj\Debug\net8.0\7_HypotenusFinder.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\obj\Debug\net8.0\7_HypotenusFinder.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\obj\Debug\net8.0\7_HypotenusFinder.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\obj\Debug\net8.0\7_HypotenusFinder.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\obj\Debug\net8.0\7_HypotenusFinder.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\obj\Debug\net8.0\refint\7_HypotenusFinder.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\obj\Debug\net8.0\7_HypotenusFinder.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\obj\Debug\net8.0\7_HypotenusFinder.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\7_HypotenusFinder\obj\Debug\net8.0\ref\7_HypotenusFinder.dll

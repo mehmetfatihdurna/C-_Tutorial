@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\bin\Debug\net8.0\6_RandomNumber.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\bin\Debug\net8.0\6_RandomNumber.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\bin\Debug\net8.0\6_RandomNumber.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\bin\Debug\net8.0\6_RandomNumber.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\bin\Debug\net8.0\6_RandomNumber.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\obj\Debug\net8.0\6_RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\obj\Debug\net8.0\6_RandomNumber.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\obj\Debug\net8.0\6_RandomNumber.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\obj\Debug\net8.0\6_RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\obj\Debug\net8.0\6_RandomNumber.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\obj\Debug\net8.0\6_RandomNumber.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\obj\Debug\net8.0\refint\6_RandomNumber.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\obj\Debug\net8.0\6_RandomNumber.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\obj\Debug\net8.0\6_RandomNumber.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\6_RandomNumber\obj\Debug\net8.0\ref\6_RandomNumber.dll

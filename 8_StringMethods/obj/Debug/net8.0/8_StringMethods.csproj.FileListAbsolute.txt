@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\bin\Debug\net8.0\8_StringMethods.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\bin\Debug\net8.0\8_StringMethods.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\bin\Debug\net8.0\8_StringMethods.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\bin\Debug\net8.0\8_StringMethods.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\bin\Debug\net8.0\8_StringMethods.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\obj\Debug\net8.0\8_StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\obj\Debug\net8.0\8_StringMethods.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\obj\Debug\net8.0\8_StringMethods.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\obj\Debug\net8.0\8_StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\obj\Debug\net8.0\8_StringMethods.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\obj\Debug\net8.0\8_StringMethods.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\obj\Debug\net8.0\refint\8_StringMethods.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\obj\Debug\net8.0\8_StringMethods.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\obj\Debug\net8.0\8_StringMethods.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\8_StringMethods\obj\Debug\net8.0\ref\8_StringMethods.dll

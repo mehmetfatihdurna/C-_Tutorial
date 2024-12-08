@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\bin\Debug\net8.0\17_MultidimensionalArrays.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\bin\Debug\net8.0\17_MultidimensionalArrays.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\bin\Debug\net8.0\17_MultidimensionalArrays.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\bin\Debug\net8.0\17_MultidimensionalArrays.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\bin\Debug\net8.0\17_MultidimensionalArrays.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\obj\Debug\net8.0\17_MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\obj\Debug\net8.0\17_MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\obj\Debug\net8.0\17_MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\obj\Debug\net8.0\17_MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\obj\Debug\net8.0\17_MultidimensionalArrays.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\obj\Debug\net8.0\17_MultidimensionalArrays.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\obj\Debug\net8.0\refint\17_MultidimensionalArrays.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\obj\Debug\net8.0\17_MultidimensionalArrays.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\obj\Debug\net8.0\17_MultidimensionalArrays.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\17_MultidimensionalArrays\obj\Debug\net8.0\ref\17_MultidimensionalArrays.dll

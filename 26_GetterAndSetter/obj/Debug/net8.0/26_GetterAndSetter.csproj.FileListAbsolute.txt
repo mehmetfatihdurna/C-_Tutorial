@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\bin\Debug\net8.0\26_GetterAndSetter.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\bin\Debug\net8.0\26_GetterAndSetter.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\bin\Debug\net8.0\26_GetterAndSetter.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\bin\Debug\net8.0\26_GetterAndSetter.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\bin\Debug\net8.0\26_GetterAndSetter.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\obj\Debug\net8.0\26_GetterAndSetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\obj\Debug\net8.0\26_GetterAndSetter.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\obj\Debug\net8.0\26_GetterAndSetter.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\obj\Debug\net8.0\26_GetterAndSetter.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\obj\Debug\net8.0\26_GetterAndSetter.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\obj\Debug\net8.0\26_GetterAndSetter.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\obj\Debug\net8.0\refint\26_GetterAndSetter.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\obj\Debug\net8.0\26_GetterAndSetter.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\obj\Debug\net8.0\26_GetterAndSetter.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\26_GetterAndSetter\obj\Debug\net8.0\ref\26_GetterAndSetter.dll

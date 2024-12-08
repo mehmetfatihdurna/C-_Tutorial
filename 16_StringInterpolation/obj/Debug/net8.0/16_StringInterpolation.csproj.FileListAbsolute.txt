@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\bin\Debug\net8.0\16_StringInterpolation.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\bin\Debug\net8.0\16_StringInterpolation.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\bin\Debug\net8.0\16_StringInterpolation.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\bin\Debug\net8.0\16_StringInterpolation.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\bin\Debug\net8.0\16_StringInterpolation.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\obj\Debug\net8.0\16_StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\obj\Debug\net8.0\16_StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\obj\Debug\net8.0\16_StringInterpolation.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\obj\Debug\net8.0\16_StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\obj\Debug\net8.0\16_StringInterpolation.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\obj\Debug\net8.0\16_StringInterpolation.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\obj\Debug\net8.0\refint\16_StringInterpolation.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\obj\Debug\net8.0\16_StringInterpolation.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\obj\Debug\net8.0\16_StringInterpolation.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\16_StringInterpolation\obj\Debug\net8.0\ref\16_StringInterpolation.dll

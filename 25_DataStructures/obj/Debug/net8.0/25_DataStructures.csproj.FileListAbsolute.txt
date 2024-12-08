@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\bin\Debug\net8.0\25_DataStructures.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\bin\Debug\net8.0\25_DataStructures.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\bin\Debug\net8.0\25_DataStructures.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\bin\Debug\net8.0\25_DataStructures.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\bin\Debug\net8.0\25_DataStructures.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\obj\Debug\net8.0\25_DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\obj\Debug\net8.0\25_DataStructures.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\obj\Debug\net8.0\25_DataStructures.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\obj\Debug\net8.0\25_DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\obj\Debug\net8.0\25_DataStructures.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\obj\Debug\net8.0\25_DataStructures.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\obj\Debug\net8.0\refint\25_DataStructures.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\obj\Debug\net8.0\25_DataStructures.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\obj\Debug\net8.0\25_DataStructures.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\25_DataStructures\obj\Debug\net8.0\ref\25_DataStructures.dll

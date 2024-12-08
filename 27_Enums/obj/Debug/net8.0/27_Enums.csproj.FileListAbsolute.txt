@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\bin\Debug\net8.0\27_Enums.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\bin\Debug\net8.0\27_Enums.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\bin\Debug\net8.0\27_Enums.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\bin\Debug\net8.0\27_Enums.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\bin\Debug\net8.0\27_Enums.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\obj\Debug\net8.0\27_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\obj\Debug\net8.0\27_Enums.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\obj\Debug\net8.0\27_Enums.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\obj\Debug\net8.0\27_Enums.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\obj\Debug\net8.0\27_Enums.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\obj\Debug\net8.0\27_Enums.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\obj\Debug\net8.0\refint\27_Enums.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\obj\Debug\net8.0\27_Enums.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\obj\Debug\net8.0\27_Enums.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\27_Enums\obj\Debug\net8.0\ref\27_Enums.dll

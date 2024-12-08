@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\bin\Debug\net8.0\4_Operators.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\bin\Debug\net8.0\4_Operators.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\bin\Debug\net8.0\4_Operators.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\bin\Debug\net8.0\4_Operators.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\bin\Debug\net8.0\4_Operators.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\obj\Debug\net8.0\4_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\obj\Debug\net8.0\4_Operators.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\obj\Debug\net8.0\4_Operators.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\obj\Debug\net8.0\4_Operators.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\obj\Debug\net8.0\4_Operators.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\obj\Debug\net8.0\4_Operators.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\obj\Debug\net8.0\refint\4_Operators.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\obj\Debug\net8.0\4_Operators.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\obj\Debug\net8.0\4_Operators.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\4_Operators\obj\Debug\net8.0\ref\4_Operators.dll

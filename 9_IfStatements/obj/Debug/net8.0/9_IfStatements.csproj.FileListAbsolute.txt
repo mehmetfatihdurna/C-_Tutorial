@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\bin\Debug\net8.0\9_IfStatements.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\bin\Debug\net8.0\9_IfStatements.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\bin\Debug\net8.0\9_IfStatements.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\bin\Debug\net8.0\9_IfStatements.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\bin\Debug\net8.0\9_IfStatements.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\obj\Debug\net8.0\9_IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\obj\Debug\net8.0\9_IfStatements.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\obj\Debug\net8.0\9_IfStatements.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\obj\Debug\net8.0\9_IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\obj\Debug\net8.0\9_IfStatements.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\obj\Debug\net8.0\9_IfStatements.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\obj\Debug\net8.0\refint\9_IfStatements.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\obj\Debug\net8.0\9_IfStatements.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\obj\Debug\net8.0\9_IfStatements.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\9_IfStatements\obj\Debug\net8.0\ref\9_IfStatements.dll

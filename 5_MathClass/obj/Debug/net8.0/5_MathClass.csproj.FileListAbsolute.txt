@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\bin\Debug\net8.0\5_MathClass.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\bin\Debug\net8.0\5_MathClass.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\bin\Debug\net8.0\5_MathClass.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\bin\Debug\net8.0\5_MathClass.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\bin\Debug\net8.0\5_MathClass.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\obj\Debug\net8.0\5_MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\obj\Debug\net8.0\5_MathClass.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\obj\Debug\net8.0\5_MathClass.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\obj\Debug\net8.0\5_MathClass.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\obj\Debug\net8.0\5_MathClass.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\obj\Debug\net8.0\5_MathClass.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\obj\Debug\net8.0\refint\5_MathClass.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\obj\Debug\net8.0\5_MathClass.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\obj\Debug\net8.0\5_MathClass.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\5_MathClass\obj\Debug\net8.0\ref\5_MathClass.dll

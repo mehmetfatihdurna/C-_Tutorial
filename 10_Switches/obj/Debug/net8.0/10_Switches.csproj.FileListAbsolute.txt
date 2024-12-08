@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\bin\Debug\net8.0\10_Switches.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\bin\Debug\net8.0\10_Switches.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\bin\Debug\net8.0\10_Switches.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\bin\Debug\net8.0\10_Switches.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\bin\Debug\net8.0\10_Switches.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\obj\Debug\net8.0\10_Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\obj\Debug\net8.0\10_Switches.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\obj\Debug\net8.0\10_Switches.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\obj\Debug\net8.0\10_Switches.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\obj\Debug\net8.0\10_Switches.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\obj\Debug\net8.0\10_Switches.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\obj\Debug\net8.0\refint\10_Switches.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\obj\Debug\net8.0\10_Switches.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\obj\Debug\net8.0\10_Switches.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\10_Switches\obj\Debug\net8.0\ref\10_Switches.dll

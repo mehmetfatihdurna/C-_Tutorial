@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\bin\Debug\net8.0\15_TernaryOperator.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\bin\Debug\net8.0\15_TernaryOperator.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\bin\Debug\net8.0\15_TernaryOperator.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\bin\Debug\net8.0\15_TernaryOperator.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\bin\Debug\net8.0\15_TernaryOperator.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\obj\Debug\net8.0\15_TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\obj\Debug\net8.0\15_TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\obj\Debug\net8.0\15_TernaryOperator.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\obj\Debug\net8.0\15_TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\obj\Debug\net8.0\15_TernaryOperator.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\obj\Debug\net8.0\15_TernaryOperator.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\obj\Debug\net8.0\refint\15_TernaryOperator.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\obj\Debug\net8.0\15_TernaryOperator.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\obj\Debug\net8.0\15_TernaryOperator.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\15_TernaryOperator\obj\Debug\net8.0\ref\15_TernaryOperator.dll

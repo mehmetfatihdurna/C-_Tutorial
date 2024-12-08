@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m-dur\\Documents\\GitHub\\CSharp_Tutorial\\1_Helloworld\\1_Helloworld.csproj": {}
+    "C:\\Users\\m-dur\\Documents\\github\\CSharp_Tutorial\\1_Helloworld\\1_Helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m-dur\\Documents\\GitHub\\CSharp_Tutorial\\1_Helloworld\\1_Helloworld.csproj": {
+    "C:\\Users\\m-dur\\Documents\\github\\CSharp_Tutorial\\1_Helloworld\\1_Helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m-dur\\Documents\\GitHub\\CSharp_Tutorial\\1_Helloworld\\1_Helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\m-dur\\Documents\\github\\CSharp_Tutorial\\1_Helloworld\\1_Helloworld.csproj",
         "projectName": "1_Helloworld",
-        "projectPath": "C:\\Users\\m-dur\\Documents\\GitHub\\CSharp_Tutorial\\1_Helloworld\\1_Helloworld.csproj",
+        "projectPath": "C:\\Users\\m-dur\\Documents\\github\\CSharp_Tutorial\\1_Helloworld\\1_Helloworld.csproj",
         "packagesPath": "C:\\Users\\m-dur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m-dur\\Documents\\GitHub\\CSharp_Tutorial\\1_Helloworld\\obj\\",
+        "outputPath": "C:\\Users\\m-dur\\Documents\\github\\CSharp_Tutorial\\1_Helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m-dur\\AppData\\Roaming\\NuGet\\NuGet.Config"

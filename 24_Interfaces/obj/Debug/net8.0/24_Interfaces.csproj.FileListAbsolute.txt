@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\bin\Debug\net8.0\24_Interfaces.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\bin\Debug\net8.0\24_Interfaces.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\bin\Debug\net8.0\24_Interfaces.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\bin\Debug\net8.0\24_Interfaces.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\bin\Debug\net8.0\24_Interfaces.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\obj\Debug\net8.0\24_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\obj\Debug\net8.0\24_Interfaces.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\obj\Debug\net8.0\24_Interfaces.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\obj\Debug\net8.0\24_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\obj\Debug\net8.0\24_Interfaces.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\obj\Debug\net8.0\24_Interfaces.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\obj\Debug\net8.0\refint\24_Interfaces.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\obj\Debug\net8.0\24_Interfaces.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\obj\Debug\net8.0\24_Interfaces.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\24_Interfaces\obj\Debug\net8.0\ref\24_Interfaces.dll

@@ -1,0 +1,15 @@
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\bin\Debug\net8.0\21_AbstractClasses.exe
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\bin\Debug\net8.0\21_AbstractClasses.deps.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\bin\Debug\net8.0\21_AbstractClasses.runtimeconfig.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\bin\Debug\net8.0\21_AbstractClasses.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\bin\Debug\net8.0\21_AbstractClasses.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\obj\Debug\net8.0\21_AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\obj\Debug\net8.0\21_AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\obj\Debug\net8.0\21_AbstractClasses.AssemblyInfo.cs
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\obj\Debug\net8.0\21_AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\obj\Debug\net8.0\21_AbstractClasses.sourcelink.json
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\obj\Debug\net8.0\21_AbstractClasses.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\obj\Debug\net8.0\refint\21_AbstractClasses.dll
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\obj\Debug\net8.0\21_AbstractClasses.pdb
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\obj\Debug\net8.0\21_AbstractClasses.genruntimeconfig.cache
+C:\Users\m-dur\Documents\github\CSharp_Tutorial\21_AbstractClasses\obj\Debug\net8.0\ref\21_AbstractClasses.dll
